@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Alethlion&fontSize=90" width="100%"/>
 
-  <h1>Hi there, I'm <a href="https://github.com/team-alethlion">Team Alethlion</a> 👋</h1>
-  <h3>Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+  <h1>Hi there, We are <a href="https://github.com/team-alethlion">Team Alethlion</a> 👋</h1>
+  <h3>Full Stack Developers | AI & Data Specialists | Tech Innovators</h3>
 
   <p>
     <a href="https://twitter.com/">
@@ -14,27 +14,27 @@
     </a>
     &nbsp;
     <a href="mailto:contact@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email Contact" />
+      <img src="https://img.shields.io/badge/Email-Contact%20Us-red?style=flat&logo=gmail" alt="Email Contact" />
     </a>
   </p>
 </div>
 
 ---
 
-## 🧐 About Me
+## 🧐 About Us
 
 <table>
   <tr>
     <td width="60%">
       <p>
-        I am a passionate developer with a knack for building scalable and efficient web applications. With a strong foundation in computer science and years of hands-on experience, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+        We are a passionate team of developers with a knack for building scalable and efficient applications across all platforms. With a strong collective foundation in computer science and years of hands-on experience, we enjoy turning complex problems into simple, beautiful, and intuitive solutions.
       </p>
       <ul>
-        <li>🔭 I’m currently working on open source projects.</li>
-        <li>🌱 I’m currently learning advanced cloud architecture.</li>
-        <li>👯 I’m looking to collaborate on innovative tech solutions.</li>
-        <li>💬 Ask me about Web Development, UI/UX, and AI.</li>
-        <li>⚡ Fun fact: I can code in 5 different languages but speak only 2!</li>
+        <li>🔭 We’re currently working on open source projects and enterprise solutions.</li>
+        <li>🌱 We’re currently deepening our expertise in <strong>Machine Learning</strong> and <strong>Advanced Cloud Architecture</strong>.</li>
+        <li>👯 We’re looking to collaborate on innovative tech solutions in <strong>AI</strong> and <strong>Web3</strong>.</li>
+        <li>💬 Ask us about <strong>Web Development</strong>, <strong>Mobile & Desktop Apps</strong>, <strong>Data Analysis</strong>, and <strong>UI/UX Design</strong>.</li>
+        <li>⚡ Fun fact: Our team speaks over 10 programming languages fluently!</li>
       </ul>
     </td>
     <td width="40%">
@@ -56,14 +56,25 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Frameworks & Libraries
+### AI, ML & Data Science
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+### Web, Mobile & Desktop Development
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-### Tools & DevOps
+### Tools, DevOps & Design
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -90,13 +101,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Alpha</h3>
+      <h3 align="center">AI Insights</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=Project+Alpha" width="100%" alt="Project Alpha" />
+        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=AI+Insights" width="100%" alt="AI Insights" />
       </div>
       <br />
       <p>
-        A revolutionary AI-powered tool that helps developers write code faster. Built with Python and TensorFlow, featuring a sleek React frontend.
+        A revolutionary data analysis tool powered by Machine Learning. We used TensorFlow and Pandas to process large datasets and Scikit-learn for predictive modeling.
       </p>
       <div align="center">
         <a href="#">
@@ -108,13 +119,13 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Beta</h3>
+      <h3 align="center">ShopScale</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=Project+Beta" width="100%" alt="Project Beta" />
+        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=ShopScale" width="100%" alt="ShopScale" />
       </div>
       <br />
       <p>
-        An e-commerce platform designed for scalability and performance. Utilizes microservices architecture with Node.js and Docker.
+        An enterprise e-commerce platform built with Next.js and Node.js. Designed for high scalability using microservices and Docker.
       </p>
       <div align="center">
         <a href="#">
@@ -128,13 +139,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Gamma</h3>
+      <h3 align="center">Connect Mobile</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=Project+Gamma" width="100%" alt="Project Gamma" />
+        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=Connect+Mobile" width="100%" alt="Connect Mobile" />
       </div>
       <br />
       <p>
-        A mobile-first social networking app built with React Native and Firebase. Focuses on user privacy and real-time interactions.
+        A cross-platform mobile application developed using React Native. Features real-time chat, geo-location, and seamless UI designed in Figma.
       </p>
       <div align="center">
         <a href="#">
@@ -146,13 +157,13 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Delta</h3>
+      <h3 align="center">Desktop Analytics</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=Project+Delta" width="100%" alt="Project Delta" />
+        <img src="https://via.placeholder.com/300x150/000000/FFFFFF/?text=Desktop+Analytics" width="100%" alt="Desktop Analytics" />
       </div>
       <br />
       <p>
-        A data visualization dashboard for financial analysis. Uses D3.js and Vue.js to render complex datasets interactively.
+        A powerful desktop dashboard for financial analysts built with Electron and Vue.js. Visualizes complex data streams in real-time.
       </p>
       <div align="center">
         <a href="#">
@@ -168,34 +179,33 @@
 
 ---
 
-## 💼 Experience
+## 💼 Our Journey
 
 <details>
-<summary><strong>Senior Software Engineer at Tech Corp</strong> (2021 - Present)</summary>
+<summary><strong>Establishment of Alethlion Solutions</strong> (2022)</summary>
 <br>
 <ul>
-  <li>Leading a team of 5 developers to build the next-gen SaaS platform.</li>
-  <li>Optimized database queries, resulting in a 40% reduction in load times.</li>
-  <li>Implemented CI/CD pipelines using GitHub Actions to streamline deployment.</li>
+  <li>Formed a core team of senior developers and data scientists.</li>
+  <li>Started consulting for high-growth startups in FinTech and HealthTech.</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>Full Stack Developer at Startup Inc</strong> (2019 - 2021)</summary>
+<summary><strong>Expansion into AI & Machine Learning</strong> (2023)</summary>
 <br>
 <ul>
-  <li>Developed and maintained multiple client-facing web applications using MERN stack.</li>
-  <li>Collaborated with UX/UI designers to ensure a seamless user experience.</li>
-  <li>Mentored junior developers and conducted code reviews.</li>
+  <li>Integrated advanced AI models into our web solutions.</li>
+  <li>Successfully delivered 5+ large-scale data analysis projects.</li>
+  <li>Adopted Next.js and Electron for cross-platform consistency.</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>Intern at Web Solutions</strong> (2018 - 2019)</summary>
+<summary><strong>Open Source Contributions</strong> (Present)</summary>
 <br>
 <ul>
-  <li>Assisted in frontend development using HTML, CSS, and jQuery.</li>
-  <li>Fixed bugs and implemented minor features in existing projects.</li>
+  <li>Actively maintaining several libraries in the Python and JavaScript ecosystems.</li>
+  <li>Collaborating with the community to build accessible developer tools.</li>
 </ul>
 </details>
 
